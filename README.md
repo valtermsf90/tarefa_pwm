@@ -46,6 +46,8 @@ O LED RGB no GPIO 12 pode apresentar alteração na iluminação devido à varia
 
 A movimentação entre 0° e 180° é feita em incrementos suaves de 5µs para um movimento mais natural.
 
+link repositorio: https://github.com/valtermsf90/tarefa_pwm
+
 link video de demostração: https://drive.google.com/file/d/1eEpuMjLvJufF2UuMH2KfLOjbBHMeQRE4/view?usp=sharing
 
 Autor
